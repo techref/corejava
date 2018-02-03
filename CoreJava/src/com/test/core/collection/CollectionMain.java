@@ -9,6 +9,7 @@ public class CollectionMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("1st Git Change...");
+		System.out.println("2nd Git Change...");
 		CollectionList cl = new CollectionList();
 		cl.perfOfArrayList();
 		cl.perfOfLinkedList();
